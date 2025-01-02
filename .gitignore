@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Logs
+logs/
+*.log
+
+# Data
+data/
+
+# Environments
+env/
+
