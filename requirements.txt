@@ -1,0 +1,25 @@
+# Core Libraries
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn 
+
+# Logging
+loguru 
+
+# Machine Learning (future tasks)
+scikit-learn 
+
+# Deep Learning (future tasks)
+# tensorflow  # or pytorch, if preferred
+
+# REST API (future tasks)
+flask
+fastapi
+uvicorn
+
+# Miscellaneous
+jupyter
+ipykernel
